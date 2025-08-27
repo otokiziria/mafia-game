@@ -2,7 +2,8 @@
 
 Download Mafia: https://drive.google.com/file/d/1MzXmVK6FhAbx4_2QNRnUjL0fLlYchN41/view?usp=sharing
 
-![Screenshot 1](googlemafiaicon.png)
+![Screenshot 1](featuremafia.png)
+
 ![Screenshot 2](image%201.png)
 ![Screenshot 3](image%202.png)
 ![Screenshot 4](image%203.png)
